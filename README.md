@@ -12,6 +12,8 @@ Assorted small C++ hobby projects and experiments.
 | `Project/3` | Fraction arithmetic — struct-based fraction type with basic operations |
 | `Project/4` | Spiral line drawing — print individual rows of a spiral pattern |
 | `Project/5` | Pascal's triangle — build and display an NxN Pascal matrix |
+| `qtcreator/` | Assorted QtCreator projects (2019) |
+| `giaitri-191102/` | Old hobby project from 2019-11-02 (`gen.cpp`, `gt.cpp`) |
 
 Open any folder in your C++ IDE or compile with:
 
